@@ -1,4 +1,3 @@
-@echo off
 git config --global user.name "OOP J"
 git config --global user.email "arthawebid@gmail.com"
 echo
